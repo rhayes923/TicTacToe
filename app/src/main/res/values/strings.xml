@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="title">TicTacToe</string>
+    <string name="description">Welcome to TicTacToe! The goal of the game is to fill three spaces in any
+    horizontal, vertical, or diagonal row before your opponent. You will be X and the AI will be O.
+    You will take turns placing down your symbols. Enter your name below and then click start.</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+</resources>
